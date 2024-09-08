@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi there! I'm Kourosh, a passionate student who loves building and tinkering with code. I'm always excited to work on new projects, explore innovative ideas, and collaborate with fellow developers. I'm part of the Turing team.
+# 👋 About Me:
+ Hi there! I'm Kourosh, a passionate student who loves building and tinkering with code. I'm always excited to work on new projects, explore innovative ideas, and collaborate with fellow developers. I'm part of the Turing team.
 
 <a href="https://freeimage.host/"><img src="https://iili.io/d8pd95l.png" alt="d8pd95l.png" border="0"></a>
 
