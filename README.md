@@ -1,6 +1,13 @@
 # 💫 About Me:
 👋 Hi there! I'm Kourosh, a passionate student who loves building and tinkering with code. I'm always excited to work on new projects, explore innovative ideas, and collaborate with fellow developers.
 
+I'm part of the Turing team.
+
+<a href="https://freeimage.host/"><img src="https://iili.io/d8pd95l.png" alt="d8pd95l.png" border="0"></a>
+
+And I work in the Bugology subgroup.
+
+<a href="https://freeimage.host/i/d8pnN2t"><img src="https://iili.io/d8pnN2t.md.png" alt="d8pnN2t.md.png" border="0"></a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kourosh-rahimi-b7135831a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@kouroshooo) 
