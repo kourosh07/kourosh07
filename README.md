@@ -1,18 +1,25 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi 👋, I'm Kourosh</h1>
 
 ###
 
-<p align="left">Hi there! I'm Kourosh, a passionate student who loves building and tinkering with code. I'm always excited to work on new projects, explore innovative ideas, and collaborate with fellow developers.</p>
-
+<h3 align="center">A passionate student who loves building and tinkering with code. I'm always excited to work on new projects, explore innovative ideas, and collaborate with fellow developers.</h3>
+<br>
+  
 ###
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ Computer Engineering Student | Aspiring Programmer | Passionate About Innovative Tech Solutions<br>📚 I'm currently working with the Turing team.<br>🎯 Goals: learning more about programming.</p>
+
+- 🌱 I’m currently learning more about programming.
+
+- 👨‍💻 I'm working with the Turing team.
+
+- 📫 How to reach me <a href="https://linkedin.com/in/kourosh07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kourosh07" height="30" width="40" /></a>
 
 ###
+<br>
 
 <h2 align="left">I code with</h2>
 
@@ -48,6 +55,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
 </div>
 <br><br>
+
+## GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kourosh07&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kourosh07&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kourosh07&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ###
 
