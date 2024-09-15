@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Computer Engineering Student | Aspiring Programmer | Passionate About Innovative Tech Solutions<br>📚 I'm currently working with the Turing team.<br>🎯 Goals: learning more about programming.<br>🎲 Fun fact: I'm still watching anime :)</p>
+<p align="left">✨ Computer Engineering Student | Aspiring Programmer | Passionate About Innovative Tech Solutions<br>📚 I'm currently working with the Turing team.<br>🎯 Goals: learning more about programming.</p>
 
 ###
 
