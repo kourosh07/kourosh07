@@ -68,7 +68,7 @@
 
 ###
 
-<P>With pride I'm part of the Turing team.</P>
+<P>With pride I'm part of the <a href="https://ituring.ir" target="blank">Turing</a> team.</P>
 
 <img src="https://iili.io/dSEzMoF.md.png" alt="dSEzMoF.md.png" border="0" align="center">
 
