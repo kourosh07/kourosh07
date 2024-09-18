@@ -16,7 +16,17 @@
 
 - 👨‍💻 I'm working with the Turing team.
 
-- 📫 How to reach me <a href="https://linkedin.com/in/kourosh07" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kourosh07" height="30" width="40" /></a>
+- 📫 How to reach me :
+
+ <div align="center"> 
+   <a href="kourosh2004rahimi@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
+  &nbsp;&nbsp;
+   <a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/kourosh07)" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="40" /></a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/kouroshooo" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
+  &nbsp;&nbsp;
+ 
+</div>
 
 ###
 <br>
@@ -68,7 +78,7 @@
 
 ###
 
-<P>With pride I'm part of the <a href="https://ituring.ir" target="blank">Turing</a> team.</P>
+<P>With pride I'm part of the <a href="https://ituring.ir" target="blank">Turing</a> team. :heart: </P>
 
 <img src="https://iili.io/dSEzMoF.md.png" alt="dSEzMoF.md.png" border="0" align="center">
 
