@@ -78,7 +78,7 @@
 
 ###
 
-<P>With pride I'm part of the <a href="https://ituring.ir" target="blank"><img src="https://iili.io/dSEzMoF.md.png" alt="dSEzMoF.md.png" border="0" align="center" width="150px"></a> team. :heart: </P>
+<P>With pride I'm part of the <a href="https://ituring.ir" target="blank"><img src="https://github.com/kourosh07/kourosh07/blob/main/turing%20(1)_prev_ui.png" alt="turinglogo" border="0" align="center" width="100px"></a> team. :heart: </P>
 
 
 
