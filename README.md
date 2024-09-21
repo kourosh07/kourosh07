@@ -78,8 +78,8 @@
 
 ###
 
-<P>With pride I'm part of the <a href="https://ituring.ir" target="blank">Turing</a> team. :heart: </P>
+<P>With pride I'm part of the <a href="https://ituring.ir" target="blank"><img src="https://iili.io/dSEzMoF.md.png" alt="dSEzMoF.md.png" border="0" align="center" width="150px"></a> team. :heart: </P>
 
-<img src="https://iili.io/dSEzMoF.md.png" alt="dSEzMoF.md.png" border="0" align="center">
+
 
 ###
