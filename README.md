@@ -80,8 +80,9 @@
 
 <P>With pride I'm part of the <a href="https://ituring.ir" target="blank">Turing</a> team. :heart: </P>
 
-<img src="https://github.com/kourosh07/kourosh07/blob/main/turing%20(1)_prev_ui.png" alt="turinglogo" border="0" align="center">
-
-
+![ituring](https://github.com/user-attachments/assets/67bbffa7-7829-48bc-984f-54cd7bd73776)
 
 ###
+
+
+
