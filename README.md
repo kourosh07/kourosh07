@@ -21,10 +21,11 @@
  <div align="center"> 
    <a href="mailto:kourosh2004rahimi@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
   &nbsp;&nbsp;
-   <a href="https://www.linkedin.com/in/kourosh07" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="40" /></a>
+   <a href="https://www.linkedin.com/in/kourosh07" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="linkedin logo"  /></a>
   &nbsp;&nbsp;
-  <a href="https://t.me/kouroshooo" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
+    <a href="https://www.instagram.com/_kouroshooo/profilecard/?igsh=ZW0yeDVxaDhjMTZr" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" alt="instagram logo"  /></a>
   &nbsp;&nbsp;
+  <a href="https://t.me/kouroshooo" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" alt="telegram logo"  /></a>
  
 </div>
 
