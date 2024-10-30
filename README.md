@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">A passionate student who loves building and tinkering with code. I'm always excited to work on new projects, explore innovative ideas, and collaborate with fellow developers.</h3>
+<h3 align="center">A passionate software developer who loves building and tinkering with code. I'm always excited to work on new projects, explore innovative ideas, and collaborate with fellow developers.</h3>
 <br>
   
 ###
