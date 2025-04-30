@@ -5,8 +5,10 @@
 <h3 align="center">A passionate software developer who loves building and tinkering with code. I'm always excited to work on new projects, explore innovative ideas, and collaborate with fellow developers.</h3>
 <br>
 
-<img src="https://github.com/kourosh07/kourosh07/blob/main/loading.gif" width="100%"/>
-  
+<div align="center">
+  <img src="https://github.com/kourosh07/kourosh07/blob/main/loading.gif" />
+</div>  
+
 ###
 
 <h2 align="left">About me</h2>
