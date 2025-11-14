@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning more about programming.
 
-- 👨‍💻 I'm working with the <a href="https://ituring.ir" target="blank"><img src="https://github.com/kourosh07/kourosh07/blob/main/turing%20(1)_prev_ui.png" alt="turinglogo" border="0" align="center" width="100px"></a> team.
+- 👨‍💻 I'm working with the <a href="https://ituring.ir" target="blank"><img src="https://github.com/kourosh07/kourosh07/blob/main/turing%20(1)_prev_ui.png" alt="turinglogo" border="0" align="center" width="100px"></a> team :heart:
 
 - 📫 How to reach me :
 
@@ -92,14 +92,3 @@
 
 ###
 <br>
-
-<h2 align="left">my team</h2>
-
-###
-
-#### With pride I'm part of the <a href="https://ituring.ir"> Turing </a><img src="https://cdn.ituring.ir/research/76/turing%20(2).png" alt="pic" align="center" width="40px"> team. :heart:
-
-###
-
-
-
